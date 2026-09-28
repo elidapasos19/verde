@@ -1,0 +1,20 @@
+*{
+    background-color: bisque;
+}
+h1{
+    color: #045c26;
+    font-size: 60px;
+}
+h2{
+    font-family:cursive;
+    font-style: italic;
+}
+p{
+   font-family:cursive;
+   font-style: italic;
+  
+}
+img{
+    width: 50vw;
+    
+}
